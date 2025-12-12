@@ -69,7 +69,8 @@ The identity matrix In of size n is the n-by-n matrix in which all the elements 
 
 It is a square matrix of order n, and also a special kind of diagonal matrix. It is called an identity matrix because multiplication with it leaves a matrix unchanged.
 
-
+For more Information:
+https://en.wikipedia.org/wiki/Square_matrix
 
 
 

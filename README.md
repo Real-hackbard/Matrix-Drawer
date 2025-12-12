@@ -10,7 +10,9 @@
 
 </br>
 
+In mathematics, a matrix (pl.: matrices) is a [rectangular](https://en.wikipedia.org/wiki/Rectangle) array of numbers or other [mathematical objects](https://en.wikipedia.org/wiki/Mathematical_object) with elements or entries arranged in rows and columns, usually satisfying certain properties of addition and multiplication.
 
+In [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), matrices are used as [linear maps](https://en.wikipedia.org/wiki/Linear_map). In geometry, matrices are used for [geometric transformations](https://en.wikipedia.org/wiki/Geometric_transformation) (for example rotations) and coordinate changes. In [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis), many computational problems are solved by reducing them to a matrix computation, and this often involves computing with matrices of huge dimensions. Matrices are used in most areas of mathematics and scientific fields, either directly, or through their use in geometry and numerical analysis.
 
 
 

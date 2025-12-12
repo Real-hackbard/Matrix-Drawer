@@ -14,14 +14,21 @@ In mathematics, a matrix (pl.: matrices) is a [rectangular](https://en.wikipedia
 
 In [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), matrices are used as [linear maps](https://en.wikipedia.org/wiki/Linear_map). In geometry, matrices are used for [geometric transformations](https://en.wikipedia.org/wiki/Geometric_transformation) (for example rotations) and coordinate changes. In [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis), many computational problems are solved by reducing them to a matrix computation, and this often involves computing with matrices of huge dimensions. Matrices are used in most areas of mathematics and scientific fields, either directly, or through their use in geometry and numerical analysis.
 
+</nr>
 
+![MatrixDrawer](https://github.com/user-attachments/assets/ccdaafe3-a3d7-4899-ac52-0efbcc10cec3)
 
+</br>
 
+An m × n matrix: the m rows are horizontal and the n columns are vertical. Each element of a matrix is often denoted by a variable with two subscripts. For example, a2,1 represents the element at the second row and first column of the matrix.
 
+</br>
 
+![Arbitrary_square_matrix](https://github.com/user-attachments/assets/a102422a-2b87-46f8-81da-b30782dba6fd)
 
+</br>
 
-
+Square matrices, matrices with the same number of rows and columns, play a major role in matrix theory. The [determinant](https://en.wikipedia.org/wiki/Determinant) of a square matrix is a number associated with the matrix, which is fundamental for the study of a square matrix; for example, a square matrix is [invertible](https://en.wikipedia.org/wiki/Invertible_matrix) if and only if it has a nonzero determinant and the eigenvalues of a square matrix are the roots of its [characteristic polynomial](https://en.wikipedia.org/wiki/Characteristic_polynomial), det (AI-A).
 
 
 

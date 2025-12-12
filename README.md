@@ -43,6 +43,19 @@ The size of a matrix is defined by the number of rows and columns it contains. T
 | [Column Matrix](https://en.wikipedia.org/wiki/Row_and_column_vectors)     | nx1     | ![d5f6732e6903bb84f36b682d8762f9ec5f8b489d](https://github.com/user-attachments/assets/358f58b4-e80b-4834-b4ed-28f5151da046)     | A matrix with one column and more than one rows, sometimes used to represent a vector     |
 | [Square Matrix](https://en.wikipedia.org/wiki/Square_matrix)     | nxn     | ![55375914df4213b621f22cb1e5a0d6eb09af29df](https://github.com/user-attachments/assets/aadf197c-fcdf-4ed9-bf8e-bba2214ffa2f)     | A matrix with the same number of rows and columns, sometimes used to represent a [linear transformation](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Linear_transformations) from a vector space to itself, such as [reflection](https://en.wikipedia.org/wiki/Reflection_(mathematics)), [rotation](https://en.wikipedia.org/wiki/Rotation_(mathematics)), or [shearing](https://en.wikipedia.org/wiki/Shear_mapping).     |
 
+</br>
+
+# Main types:
+Diagonal and triangular matrix
+If all entries of A below the main diagonal are zero, A is called an upper triangular matrix. Similarly, if all entries of A above the main diagonal are zero, A is called a lower triangular matrix. If all entries outside the main diagonal are zero, A is called a diagonal matrix.
+
+</br>
+
+| Name | Example with n = 3 |
+| :----------- | :----------- |
+| [Diagonal Matrix](https://en.wikipedia.org/wiki/Diagonal_matrix)     | ![58c1cbd586cf9fd90a642b4a7ca5e78e92418557](https://github.com/user-attachments/assets/a7b8d9cf-ecf1-4091-9b07-0bfc26362a4e)     |
+| [Lower triangular Matrix](https://en.wikipedia.org/wiki/Triangular_matrix)     | ![b0cfe35165701bd0692e6063e5fca0c636b5b905](https://github.com/user-attachments/assets/d9e6406d-48a1-41a5-afdb-89e324710c56)     |
+| [Upper triangular Matrix](https://en.wikipedia.org/wiki/Triangular_matrix)     | ![a33db4eee227aa187ac0a47dfbe1079336bcae86](https://github.com/user-attachments/assets/f0b50c0b-63bf-4d37-a2d2-c57f54f9ed1f)     |
 
 
 

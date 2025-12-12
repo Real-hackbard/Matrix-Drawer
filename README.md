@@ -41,7 +41,8 @@ The size of a matrix is defined by the number of rows and columns it contains. T
 | :----------- | :----------- | :----------- | :----------- |
 | [Row Matrix](https://en.wikipedia.org/wiki/Row_and_column_vectors)     | 1xn    | [ 3 7 2 ]     | A matrix with one row and more than one columns, sometimes used to represent a vector     |
 | [Column Matrix](https://en.wikipedia.org/wiki/Row_and_column_vectors)     | nx1     | [ 4 1 8 ]     | A matrix with one column and more than one rows, sometimes used to represent a vector     |
-| Zelle 2,1     | Zelle 2,2     | Zelle 2,3     | Zelle 2,3     |
+| [Square Matrix](https://en.wikipedia.org/wiki/Square_matrix)     | nxn     | ![55375914df4213b621f22cb1e5a0d6eb09af29df](https://github.com/user-attachments/assets/aadf197c-fcdf-4ed9-bf8e-bba2214ffa2f)     | A matrix with the same number of rows and columns, sometimes used to represent a [linear transformation](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Linear_transformations) from a vector space to itself, such as [reflection](https://en.wikipedia.org/wiki/Reflection_(mathematics)), [rotation](https://en.wikipedia.org/wiki/Rotation_(mathematics)), or [shearing](https://en.wikipedia.org/wiki/Shear_mapping).     |
+
 
 
 

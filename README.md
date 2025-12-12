@@ -35,6 +35,7 @@ Matrix theory is the branch of mathematics that focuses on the study of matrices
 </br>
 
 # Size:
+The size of a matrix is defined by the number of rows and columns it contains. There is no limit to the number of rows and columns that a matrix (in the usual sense) can have as long as they are positive integers. A matrix with m rows and n columns is called an m × n matrix, or m-by-n matrix, where m and n are called its dimensions. For example, the matrix (A) above is a 3 × 2 matrix.
 
 | Name | Size | Example | Description |
 | :----------- | :----------- | :----------- | :----------- |

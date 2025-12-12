@@ -30,7 +30,7 @@ An m × n matrix: the m rows are horizontal and the n columns are vertical. 
 
 Square matrices, matrices with the same number of rows and columns, play a major role in matrix theory. The [determinant](https://en.wikipedia.org/wiki/Determinant) of a square matrix is a number associated with the matrix, which is fundamental for the study of a square matrix; for example, a square matrix is [invertible](https://en.wikipedia.org/wiki/Invertible_matrix) if and only if it has a nonzero determinant and the eigenvalues of a square matrix are the roots of its [characteristic polynomial](https://en.wikipedia.org/wiki/Characteristic_polynomial), det (AI-A).
 
-
+Matrix theory is the branch of mathematics that focuses on the study of matrices. It was initially a sub-branch of linear algebra, but soon grew to include subjects related to [graph theory](https://en.wikipedia.org/wiki/Graph_theory), algebra, [combinatorics](https://en.wikipedia.org/wiki/Combinatorics) and statistics.
 
 
 

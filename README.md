@@ -32,6 +32,20 @@ Square matrices, matrices with the same number of rows and columns, play a major
 
 Matrix theory is the branch of mathematics that focuses on the study of matrices. It was initially a sub-branch of linear algebra, but soon grew to include subjects related to [graph theory](https://en.wikipedia.org/wiki/Graph_theory), algebra, [combinatorics](https://en.wikipedia.org/wiki/Combinatorics) and statistics.
 
+</br>
+
+# Size:
+
+| Name | Size | Example | Description |
+| :----------- | :----------- | :----------- | :----------- |
+| [Row Matrix](https://en.wikipedia.org/wiki/Row_and_column_vectors)     | 1xn    | [ 3 7 2 ]     | A matrix with one row and more than one columns, sometimes used to represent a vector     |
+| [Column Matrix](https://en.wikipedia.org/wiki/Row_and_column_vectors)     | nx1     | [ 4 1 8 ]     | A matrix with one column and more than one rows, sometimes used to represent a vector     |
+| Zelle 2,1     | Zelle 2,2     | Zelle 2,3     | Zelle 2,3     |
+
+
+
+
+
 
 
 

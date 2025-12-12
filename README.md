@@ -57,9 +57,17 @@ If all entries of A below the main diagonal are zero, A is called an upper trian
 | [Lower triangular Matrix](https://en.wikipedia.org/wiki/Triangular_matrix)     | ![b0cfe35165701bd0692e6063e5fca0c636b5b905](https://github.com/user-attachments/assets/d9e6406d-48a1-41a5-afdb-89e324710c56)     |
 | [Upper triangular Matrix](https://en.wikipedia.org/wiki/Triangular_matrix)     | ![a33db4eee227aa187ac0a47dfbe1079336bcae86](https://github.com/user-attachments/assets/f0b50c0b-63bf-4d37-a2d2-c57f54f9ed1f)     |
 
+</br>
 
+The identity matrix In of size n is the n-by-n matrix in which all the elements on the main diagonal are equal to 1 and all other elements are equal to 0, for example..
 
+</br>
 
+![e2f691509cf9deb5416f60f917b8dfc543b1c6d3](https://github.com/user-attachments/assets/b4fd01ad-1afa-4186-9dfa-2e783b9c46eb)
+
+</br>
+
+It is a square matrix of order n, and also a special kind of diagonal matrix. It is called an identity matrix because multiplication with it leaves a matrix unchanged.
 
 
 
